@@ -1,0 +1,8 @@
+"region","state","pmt_source","proportion"
+"US","US","Self-Pay",0.0696
+"US","US","Private",0.0528
+"US","US","Medicare",0.02
+"US","US","Medicaid",0.5528
+"US","US","Other Gov",0.2266
+"US","US","No Charge",0.0215
+"US","US","Other",0.0567

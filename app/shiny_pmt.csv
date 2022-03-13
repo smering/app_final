@@ -1,0 +1,240 @@
+"region","state","pmt_source","proportion"
+"South","Alabama","Self-Pay",0.2543
+"South","Alabama","Private",0.014
+"South","Alabama","Medicare",0.0035
+"South","Alabama","Medicaid",0.1387
+"South","Alabama","Other Govt",0.5721
+"South","Alabama","No Charge",0.0082
+"South","Alabama","Other",0.0092
+"West","Alaska","Self-Pay",0.1206
+"West","Alaska","Private",0.055
+"West","Alaska","Medicare",0.0102
+"West","Alaska","Medicaid",0.5841
+"West","Alaska","Other Govt",0.0637
+"West","Alaska","No Charge",0.0082
+"West","Alaska","Other",0.1582
+"West","Arizona","Private",0.0017
+"West","Arizona","Medicare",0.059
+"West","Arizona","Medicaid",0.9394
+"South","Arkansas","Self-Pay",0.0859
+"South","Arkansas","Private",0.1202
+"South","Arkansas","Medicare",0.0016
+"South","Arkansas","Medicaid",0.0209
+"South","Arkansas","Other Govt",0.5059
+"South","Arkansas","No Charge",0.0263
+"South","Arkansas","Other",0.2391
+"West","Colorado","Self-Pay",0.2612
+"West","Colorado","Private",0.0715
+"West","Colorado","Medicare",0.0192
+"West","Colorado","Medicaid",0.432
+"West","Colorado","Other Govt",0.0508
+"West","Colorado","No Charge",0.0142
+"West","Colorado","Other",0.151
+"South","Delaware","Self-Pay",6e-04
+"South","Delaware","Private",0.0301
+"South","Delaware","Medicare",0.0327
+"South","Delaware","Medicaid",0.5708
+"South","Delaware","Other Govt",0.3557
+"South","Delaware","No Charge",7e-04
+"South","Delaware","Other",0.0095
+"South","District of Columbia","Self-Pay",0.0013
+"South","District of Columbia","Private",0.0045
+"South","District of Columbia","Medicare",0.0148
+"South","District of Columbia","Medicaid",0.61
+"South","District of Columbia","Other Govt",0.3412
+"South","District of Columbia","No Charge",0.0072
+"South","District of Columbia","Other",0.021
+"South","Florida","Self-Pay",0.0141
+"South","Florida","Other Govt",0.9859
+"West","Hawaii","Self-Pay",0.0029
+"West","Hawaii","Private",0.0524
+"West","Hawaii","Medicaid",0.3231
+"West","Hawaii","Other Govt",0.5739
+"West","Hawaii","Other",0.0477
+"West","Idaho","Self-Pay",0.0304
+"West","Idaho","Private",0.009
+"West","Idaho","Medicare",0.0014
+"West","Idaho","Medicaid",0.0683
+"West","Idaho","Other Govt",0.8675
+"West","Idaho","No Charge",0.0014
+"West","Idaho","Other",0.0221
+"Midwest","Illinois","Self-Pay",0.0451
+"Midwest","Illinois","Private",0.0544
+"Midwest","Illinois","Medicare",0.0307
+"Midwest","Illinois","Medicaid",0.8698
+"Midwest","Iowa","Self-Pay",0.1052
+"Midwest","Iowa","Private",0.1782
+"Midwest","Iowa","Medicare",0.0192
+"Midwest","Iowa","Medicaid",0.4978
+"Midwest","Iowa","Other Govt",0.1803
+"Midwest","Iowa","No Charge",0.0164
+"Midwest","Iowa","Other",0.0029
+"Midwest","Kansas","Self-Pay",0.0881
+"Midwest","Kansas","Private",0.0266
+"Midwest","Kansas","Medicare",0.0011
+"Midwest","Kansas","Medicaid",0.2562
+"Midwest","Kansas","Other Govt",0.6143
+"Midwest","Kansas","No Charge",0.0032
+"Midwest","Kansas","Other",0.0105
+"South","Kentucky","Self-Pay",0.0517
+"South","Kentucky","Private",0.0754
+"South","Kentucky","Medicare",0.0068
+"South","Kentucky","Medicaid",0.5453
+"South","Kentucky","Other Govt",0.2521
+"South","Kentucky","Other",0.0687
+"South","Louisiana","Self-Pay",0.0394
+"South","Louisiana","Private",0.0546
+"South","Louisiana","Medicare",0.024
+"South","Louisiana","Medicaid",0.5585
+"South","Louisiana","Other Govt",0.0372
+"South","Louisiana","No Charge",0.2863
+"Northeast","Maine","Self-Pay",0.2232
+"Northeast","Maine","Private",0.1083
+"Northeast","Maine","Medicare",0.0273
+"Northeast","Maine","Medicaid",0.3625
+"Northeast","Maine","Other Govt",0.2094
+"Northeast","Maine","Other",0.0693
+"South","Maryland","Self-Pay",8e-04
+"South","Maryland","Private",0.0042
+"South","Maryland","Medicare",0.0208
+"South","Maryland","Medicaid",0.926
+"South","Maryland","Other Govt",0.032
+"South","Maryland","Other",0.0163
+"South","Mississippi","Self-Pay",0.0031
+"South","Mississippi","Private",0.0019
+"South","Mississippi","Medicaid",0.99
+"South","Mississippi","Other Govt",0.0021
+"South","Mississippi","No Charge",0.0029
+"Midwest","Missouri","Self-Pay",0.1255
+"Midwest","Missouri","Private",0.0472
+"Midwest","Missouri","Medicare",0.0056
+"Midwest","Missouri","Medicaid",0.1989
+"Midwest","Missouri","Other Govt",0.2047
+"Midwest","Missouri","No Charge",0.2601
+"Midwest","Missouri","Other",0.158
+"West","Montana","Self-Pay",0.1113
+"West","Montana","Private",0.0921
+"West","Montana","Medicare",0.0037
+"West","Montana","Medicaid",0.6475
+"West","Montana","Other Govt",0.1249
+"West","Montana","Other",0.0204
+"Midwest","Nebraska","Self-Pay",0.0461
+"Midwest","Nebraska","Private",0.0125
+"Midwest","Nebraska","Medicare",0.0011
+"Midwest","Nebraska","Medicaid",0.008
+"Midwest","Nebraska","Other Govt",0.932
+"Midwest","Nebraska","No Charge",3e-04
+"West","Nevada","Self-Pay",0.2953
+"West","Nevada","Private",0.0893
+"West","Nevada","Medicare",0.0085
+"West","Nevada","Medicaid",0.4551
+"West","Nevada","Other Govt",0.1414
+"West","Nevada","No Charge",0.0037
+"West","Nevada","Other",0.0067
+"Northeast","New Hampshire","Self-Pay",0.1004
+"Northeast","New Hampshire","Private",0.0702
+"Northeast","New Hampshire","Medicare",0.0679
+"Northeast","New Hampshire","Medicaid",0.4511
+"Northeast","New Hampshire","Other Govt",0.0609
+"Northeast","New Hampshire","No Charge",0.1206
+"Northeast","New Hampshire","Other",0.1289
+"Northeast","New Jersey","Self-Pay",0.0548
+"Northeast","New Jersey","Private",0.144
+"Northeast","New Jersey","Medicare",0.0045
+"Northeast","New Jersey","Medicaid",0.4461
+"Northeast","New Jersey","Other Govt",0.3266
+"Northeast","New Jersey","No Charge",0.0098
+"Northeast","New Jersey","Other",0.0142
+"West","New Mexico","Other Govt",1
+"Midwest","North Dakota","Self-Pay",0.1911
+"Midwest","North Dakota","Private",0.2954
+"Midwest","North Dakota","Medicare",0.0235
+"Midwest","North Dakota","Medicaid",0.1928
+"Midwest","North Dakota","Other Govt",0.0082
+"Midwest","North Dakota","No Charge",0.2625
+"Midwest","North Dakota","Other",0.0264
+"Midwest","Ohio","Self-Pay",0.051
+"Midwest","Ohio","Private",0.0406
+"Midwest","Ohio","Medicare",0.0202
+"Midwest","Ohio","Medicaid",0.6461
+"Midwest","Ohio","Other Govt",0.1377
+"Midwest","Ohio","No Charge",0.0137
+"Midwest","Ohio","Other",0.0907
+"Northeast","Pennsylvania","Self-Pay",0.0167
+"Northeast","Pennsylvania","Private",0.0313
+"Northeast","Pennsylvania","Medicare",0.0071
+"Northeast","Pennsylvania","Medicaid",0.1535
+"Northeast","Pennsylvania","Other Govt",0.7803
+"Northeast","Pennsylvania","No Charge",3e-04
+"Northeast","Pennsylvania","Other",0.0108
+"Northeast","Rhode Island","Self-Pay",0.0621
+"Northeast","Rhode Island","Private",0.1769
+"Northeast","Rhode Island","Medicare",0.0219
+"Northeast","Rhode Island","Medicaid",0.575
+"Northeast","Rhode Island","Other Govt",0.1239
+"Northeast","Rhode Island","No Charge",0.037
+"Northeast","Rhode Island","Other",0.0033
+"South","South Carolina","Self-Pay",0.208
+"South","South Carolina","Private",0.1105
+"South","South Carolina","Medicare",0.0067
+"South","South Carolina","Medicaid",0.2678
+"South","South Carolina","Other",0.407
+"Midwest","South Dakota","Self-Pay",0.0315
+"Midwest","South Dakota","Private",0.1178
+"Midwest","South Dakota","Medicare",0.0019
+"Midwest","South Dakota","Medicaid",0.046
+"Midwest","South Dakota","Other Govt",0.7997
+"Midwest","South Dakota","No Charge",3e-04
+"Midwest","South Dakota","Other",0.0029
+"South","Texas","Other Govt",1
+"West","Utah","Self-Pay",0.1637
+"West","Utah","Private",0.0281
+"West","Utah","Medicare",0.0088
+"West","Utah","Medicaid",0.2027
+"West","Utah","Other Govt",0.5502
+"West","Utah","No Charge",0.0176
+"West","Utah","Other",0.0289
+"Northeast","Vermont","Self-Pay",0.1111
+"Northeast","Vermont","Private",0.071
+"Northeast","Vermont","Medicare",0.0353
+"Northeast","Vermont","Medicaid",0.6953
+"Northeast","Vermont","Other Govt",0.0826
+"Northeast","Vermont","Other",0.0047
+"South","West Virginia","Self-Pay",0.1853
+"South","West Virginia","Private",0.225
+"South","West Virginia","Medicare",0.0137
+"South","West Virginia","Medicaid",0.3455
+"South","West Virginia","Other Govt",0.1702
+"South","West Virginia","Other",0.0602
+"West","Wyoming","Self-Pay",0.0122
+"West","Wyoming","Private",0.0984
+"West","Wyoming","Medicaid",0.0761
+"West","Wyoming","Other",0.8133
+"Midwest","Midwest","Self-Pay",0.0803
+"Midwest","Midwest","Private",0.0766
+"Midwest","Midwest","Medicare",0.0137
+"Midwest","Midwest","Medicaid",0.41
+"Midwest","Midwest","Other Gov",0.2844
+"Midwest","Midwest","No Charge",0.0732
+"Midwest","Midwest","Other",0.0617
+"Northeast","Northeast","Self-Pay",0.0609
+"Northeast","Northeast","Private",0.1177
+"Northeast","Northeast","Medicare",0.0108
+"Northeast","Northeast","Medicaid",0.4139
+"Northeast","Northeast","Other Gov",0.3682
+"Northeast","Northeast","No Charge",0.0115
+"Northeast","Northeast","Other",0.0171
+"South","South","Self-Pay",0.0377
+"South","South","Private",0.027
+"South","South","Medicare",0.0149
+"South","South","Medicaid",0.6207
+"South","South","Other Gov",0.228
+"South","South","No Charge",0.0123
+"South","South","Other",0.0595
+"West","West","Self-Pay",0.1069
+"West","West","Private",0.0329
+"West","West","Medicare",0.0354
+"West","West","Medicaid",0.6383
+"West","West","Other Gov",0.108
+"West","West","No Charge",0.0059
+"West","West","Other",0.0726

@@ -1,0 +1,199 @@
+"region","state","trt_day_wait","proportion"
+"South","Alabama","0",0.9996
+"South","Alabama","1-7",4e-04
+"West","Alaska","0",0.9951
+"West","Alaska","1-7",0.0024
+"West","Alaska","8-14",0.0013
+"West","Alaska","15-30",8e-04
+"West","Alaska","31+",4e-04
+"West","Arizona","0",0.7372
+"West","Arizona","1-7",0.1229
+"West","Arizona","8-14",0.053
+"West","Arizona","15-30",0.0457
+"West","Arizona","31+",0.0411
+"South","Arkansas","0",0.6299
+"South","Arkansas","1-7",0.198
+"South","Arkansas","8-14",0.0782
+"South","Arkansas","15-30",0.0663
+"South","Arkansas","31+",0.0276
+"West","California","0",0.7822
+"West","California","1-7",0.1452
+"West","California","8-14",0.0384
+"West","California","15-30",0.0245
+"West","California","31+",0.0097
+"West","Colorado","0",0.8397
+"West","Colorado","1-7",0.0851
+"West","Colorado","8-14",0.0263
+"West","Colorado","15-30",0.0231
+"West","Colorado","31+",0.0258
+"South","Delaware","0",0.5566
+"South","Delaware","1-7",0.2925
+"South","Delaware","8-14",0.066
+"South","Delaware","15-30",0.0519
+"South","Delaware","31+",0.033
+"South","District of Columbia","0",0.9882
+"South","District of Columbia","1-7",0.0113
+"South","District of Columbia","8-14",6e-04
+"South","Florida","0",0.8453
+"South","Florida","1-7",0.1133
+"South","Florida","8-14",0.0155
+"South","Florida","15-30",0.0129
+"South","Florida","31+",0.013
+"West","Hawaii","0",0.8815
+"West","Hawaii","1-7",0.0594
+"West","Hawaii","8-14",0.0126
+"West","Hawaii","15-30",0.0115
+"West","Hawaii","31+",0.0349
+"West","Idaho","0",0.9724
+"West","Idaho","1-7",0.0214
+"West","Idaho","8-14",0.0021
+"West","Idaho","15-30",0.0021
+"West","Idaho","31+",0.0021
+"Midwest","Illinois","0",0.9715
+"Midwest","Illinois","1-7",0.0115
+"Midwest","Illinois","8-14",0.0049
+"Midwest","Illinois","15-30",0.0055
+"Midwest","Illinois","31+",0.0066
+"Midwest","Iowa","0",0.477
+"Midwest","Iowa","1-7",0.2714
+"Midwest","Iowa","8-14",0.1208
+"Midwest","Iowa","15-30",0.0908
+"Midwest","Iowa","31+",0.0401
+"Midwest","Kansas","0",0.9405
+"Midwest","Kansas","1-7",0.0247
+"Midwest","Kansas","8-14",0.0113
+"Midwest","Kansas","15-30",0.0117
+"Midwest","Kansas","31+",0.0118
+"South","Louisiana","0",0.7883
+"South","Louisiana","1-7",0.1035
+"South","Louisiana","8-14",0.0391
+"South","Louisiana","15-30",0.0267
+"South","Louisiana","31+",0.0424
+"Northeast","Maine","0",0.1978
+"Northeast","Maine","1-7",0.2414
+"Northeast","Maine","8-14",0.0888
+"Northeast","Maine","15-30",0.1854
+"Northeast","Maine","31+",0.2866
+"South","Maryland","0",0.9157
+"South","Maryland","1-7",0.0659
+"South","Maryland","8-14",0.0106
+"South","Maryland","15-30",0.006
+"South","Maryland","31+",0.0018
+"Northeast","Massachusetts","0",0.3479
+"Northeast","Massachusetts","1-7",0.5415
+"Northeast","Massachusetts","8-14",0.0383
+"Northeast","Massachusetts","15-30",0.033
+"Northeast","Massachusetts","31+",0.0393
+"Midwest","Michigan","0",0.3602
+"Midwest","Michigan","1-7",0.4062
+"Midwest","Michigan","8-14",0.1432
+"Midwest","Michigan","15-30",0.0714
+"Midwest","Michigan","31+",0.019
+"South","Mississippi","0",0.8004
+"South","Mississippi","1-7",0.1332
+"South","Mississippi","8-14",0.0235
+"South","Mississippi","15-30",0.0252
+"South","Mississippi","31+",0.0176
+"Midwest","Missouri","0",0.6983
+"Midwest","Missouri","1-7",0.1495
+"Midwest","Missouri","8-14",0.0522
+"Midwest","Missouri","15-30",0.0534
+"Midwest","Missouri","31+",0.0467
+"West","Montana","0",0.7001
+"West","Montana","1-7",0.0959
+"West","Montana","8-14",0.0482
+"West","Montana","15-30",0.0581
+"West","Montana","31+",0.0977
+"Midwest","Nebraska","0",0.6795
+"Midwest","Nebraska","1-7",0.1739
+"Midwest","Nebraska","8-14",0.0585
+"Midwest","Nebraska","15-30",0.0606
+"Midwest","Nebraska","31+",0.0275
+"West","Nevada","0",0.5225
+"West","Nevada","1-7",0.0796
+"West","Nevada","8-14",0.3007
+"West","Nevada","15-30",0.0206
+"West","Nevada","31+",0.0767
+"Northeast","New Hampshire","0",0.8059
+"Northeast","New Hampshire","1-7",0.1718
+"Northeast","New Hampshire","8-14",0.0116
+"Northeast","New Hampshire","15-30",0.0087
+"Northeast","New Hampshire","31+",0.002
+"Northeast","New Jersey","0",0.242
+"Northeast","New Jersey","1-7",0.6323
+"Northeast","New Jersey","8-14",0.0665
+"Northeast","New Jersey","15-30",0.0449
+"Northeast","New Jersey","31+",0.0143
+"West","New Mexico","0",0.7437
+"West","New Mexico","1-7",0.1126
+"West","New Mexico","8-14",0.0392
+"West","New Mexico","15-30",0.0521
+"West","New Mexico","31+",0.0523
+"Midwest","North Dakota","0",0.7747
+"Midwest","North Dakota","1-7",0.1447
+"Midwest","North Dakota","8-14",0.0338
+"Midwest","North Dakota","15-30",0.0309
+"Midwest","North Dakota","31+",0.0159
+"Midwest","Ohio","0",0.6481
+"Midwest","Ohio","1-7",0.1703
+"Midwest","Ohio","8-14",0.0683
+"Midwest","Ohio","15-30",0.0565
+"Midwest","Ohio","31+",0.0569
+"Northeast","Pennsylvania","0",0.7932
+"Northeast","Pennsylvania","1-7",0.1232
+"Northeast","Pennsylvania","8-14",0.0423
+"Northeast","Pennsylvania","15-30",0.0269
+"Northeast","Pennsylvania","31+",0.0145
+"South","South Carolina","0",0.7295
+"South","South Carolina","1-7",0.1168
+"South","South Carolina","8-14",0.0668
+"South","South Carolina","15-30",0.0572
+"South","South Carolina","31+",0.0297
+"Midwest","South Dakota","0",0.8681
+"Midwest","South Dakota","1-7",0.0698
+"Midwest","South Dakota","8-14",0.0246
+"Midwest","South Dakota","15-30",0.0255
+"Midwest","South Dakota","31+",0.0119
+"South","Tennessee","0",0.8253
+"South","Tennessee","1-7",0.0995
+"South","Tennessee","8-14",0.0212
+"South","Tennessee","15-30",0.0344
+"South","Tennessee","31+",0.0196
+"South","Texas","0",0.9993
+"South","Texas","1-7",6e-04
+"South","Texas","15-30",1e-04
+"West","Utah","0",0.6797
+"West","Utah","1-7",0.1981
+"West","Utah","8-14",0.0396
+"West","Utah","15-30",0.0393
+"West","Utah","31+",0.0434
+"South","West Virginia","0",0.8561
+"South","West Virginia","1-7",0.0649
+"South","West Virginia","8-14",0.0321
+"South","West Virginia","15-30",0.0271
+"South","West Virginia","31+",0.0199
+"West","Wyoming","0",0.638
+"West","Wyoming","1-7",0.1797
+"West","Wyoming","8-14",0.0637
+"West","Wyoming","15-30",0.0621
+"West","Wyoming","31+",0.0564
+"Midwest","Midwest","0",0.6386
+"Midwest","Midwest","1-7",0.2058
+"Midwest","Midwest","8-14",0.0764
+"Midwest","Midwest","15-30",0.0511
+"Midwest","Midwest","31+",0.0282
+"Northeast","Northeast","0",0.3755
+"Northeast","Northeast","1-7",0.5109
+"Northeast","Northeast","8-14",0.0525
+"Northeast","Northeast","15-30",0.038
+"Northeast","Northeast","31+",0.0231
+"South","South","0",0.8819
+"South","South","1-7",0.0765
+"South","South","8-14",0.0179
+"South","South","15-30",0.0147
+"South","South","31+",0.009
+"West","West","0",0.7817
+"West","West","1-7",0.1229
+"West","West","8-14",0.0458
+"West","West","15-30",0.027
+"West","West","31+",0.0226
